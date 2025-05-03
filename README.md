@@ -9,8 +9,6 @@
 - ✅ Add new notes instantly
 - ✏️ Edit existing notes
 - 🗑️ Delete notes
-- 💾 Stores notes in local storage (data persists even after refreshing)
-- 📱 Responsive design for mobile and desktop use
 
 ---
 
